@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>计算机学科资料</title>
+</head>
+<body background=".\1234.jpg">
+<hr/>
+	<h1 align="center">计算机学科知识资料</h1>
+<hr/>
+                <style>
+	     html{
+		background-color:skyblue;
+	            }
+	     body{
+		background-position:center;
+		margin:2% 20%;
+		border:2px soild #666;
+		height:1800px;
+		padding:20px;
+		background-color:skyblue;
+		font-family:arial;
+	              }
+	             p{
+		  font-size:20px;
+		}
+               </style>
+<font size="4" color="black">  
+<pre><p color="black">             
+<a  href=".\作业.html" >首页</a>   <a  href=".\课程关系.png" target="_blank" >计算机学科各课程关系图</a>   <a  href=".\2.html" target="_blank" >计算机学科各课程参考资料</a>   <a  href=".\3.html"  target="_blank">对计算机专业的认识</a>   <a  href=".\4.html"  target="_blank">学业规划</a>
+</p>
+</pre>
+<pre><p color="black">        
+<h2 align=“center”>各课程摘要介绍</h2>
+<a  href="https://www.docin.com/p-1891384883.html" target="_blank">程序设计基础</a>
+<h5>《程序设计基础》课程是计算机类专业课程中的一门重要专业基础课，课程的任务是使学生掌握程序设计的思想，理解核心编程概念，
+掌握独立于编程语言环境的程序设计方法，理解程序设计背后的逻辑并获得有效的编程技能。</h5>
+<a  href="https://blog.csdn.net/touxuecainiao/article/details/106249639" target="_blank">高等数学</a>
+<h5>高等数学是指相对于初等数学和中等数学而言，数学的对象及方法较为繁杂的一部分，中学的代数、几何以及简单的集合论初步、逻
+辑初步称为中等数学，将其作为中小学阶段的初等数学与大学阶段的高等数学的过渡。
+通常认为，高等数学是由微积分学，较深入的代数学、几何学以及它们之间的交叉内容所形成的一门基础学科。主要内容包括：数列、极限、
+微积分、空间解析几何与线性代数、级数、常微分方程。工科、理科、财经类研究生考试的基础科目。</h5>
+<a  href="https://blog.csdn.net/Until_U/article/details/106173280" target="_blank">离散数学</a>
+<h5>离散数学（Discrete mathematics）是研究离散量的结构及其相互关系的数学学科，是现代数学的一个重要分支。离散的含义是指不
+同的连接在一起的元素，主要是研究基于离散量的结构和相互间的关系，其对象一般是有限个或可数个元素。</h5>
+<a  href="https://blog.csdn.net/chief_cf/article/details/50537688" target="_blank">数值分析</a>
+<h5>数值分析为数学的一个分支，是研究分析用计算机求解数学计算问题的数值计算方法及其理论的学科。 它以数字计算机求解数学问题
+的理论和方法为研究对象，为计算数学的主体部分。</h5>
+<a  href="https://https://blog.csdn.net/qq_41498261/article/details/106845014" target="_blank">线性代数</a>
+<h5>线性代数是数学的一个分支，它的研究对象是向量，向量空间（或称线性空间），线性变换和有限维的线性方程组。 向量空间是现代
+数学的一个重要课题；因而，线性代数被广泛地应用于抽象代数和泛函分析中；通过解析几何，线性代数得以被具体表示。</h5>
+<a  href="https://max.book118.com/html/2018/0910/5042303210001313.shtm" target="_blank">大学物理</a>
+<h5>大学物理，是大学理工科类的一门基础课程 ，通过课程的学习，使学生熟悉自然界物质的结构性质，相互作用及其运动的基本规律，
+为后继专业基础与专业课程的学习及进一步获取有关知识奠定必要的物理基础。</h5>
+<a  href="http://c.biancheng.net/asm/" target="_blank">汇编语言</a>
+<h5>汇编语言（英語：assembly language）是任何一种用于电子计算机、微处理器、微控制器，或其他可编程器件的低级语言。 在不同
+的设备中，汇编语言对应着不同的机器语言指令集。 一种汇编语言专用于某种计算机系统结构，而不像许多高级语言，可以在不同系统平台
+之间移植。</h5>
+<a  href="https://blog.csdn.net/ningmengshuxiawo/article/details/107639580" target="_blank">数据结构</a>
+<h5>数据结构与算法 数据结构（英语：data structure）是计算机中存储、组织数据的方式。 数据结构是一种具有一定逻辑关系，在计算
+机中应用某种存储结构，并且封装了相应操作的数据元素集合。它包含三方面的内容，逻辑关系、存储关系及操作。</h5>
+<a  href="https://blog.csdn.net/qq_42316200/article/details/103855396" target="_blank">计算机组成原理</a>
+<h5>计算机学科本科相关专业的核心基础课，重点讲授计算机硬件系统的组成结构、工作原理和设计方法，注重培养学习者计算机硬件系
+统的分析和设计能力。</h5>
+<a  href="https://www.icourse163.org/course/jlu-62001" target="_blank">高级设计语言</a>
+<h5>高级语言是一种独立于机器，面向过程或对象的语言。高级语言是参照数学语言而设计的近似于日常会话的语言。</h5>
+<a  href="https://blog.csdn.net/qq_43522998/article/details/118466344" target="_blank">编译原理</a>
+<h5>编译原理是计算机专业的一门重要专业课，旨在介绍编译程序构造的一般原理和基本方法。内容包括语言和文法、词法分析、语法分析、
+语法制导翻译、中间代码生成、存储管理、代码优化和目标代码生成。</h5>
+<a  href="https://blog.csdn.net/wjheha/article/details/78260537" target="_blank">操作系统</a>
+<h5>操作系统是管理计算机硬件与软件资源的计算机程序。操作系统需要处理如管理与配置内存、决定系统资源供需的优先次序、控制输入
+设备与输出设备、操作网络与管理文件系统等基本事务。操作系统也提供一个让用户与系统交互的操作界面</h5>
+</p>
+</pre>
+
+	<br>
+	<br>
+
+	<p align="center">共勉</p>
+	
+	</body>
+</html>
